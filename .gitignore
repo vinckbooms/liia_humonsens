@@ -1,0 +1,30 @@
+# Fichiers et dossiers générés par l'environnement de développement
+.vscode/
+node_modules/
+dist/
+
+# Fichiers de configuration spécifiques à l'utilisateur
+.env
+
+# Fichiers de sauvegarde
+*.bak
+*.swp
+
+# Fichiers de logs
+*.log
+
+# Fichiers de données sensibles
+config.json
+config.ini
+
+# Fichiers de build
+build/
+
+# Fichiers temporaires
+.tmp/
+.temp/
+**/__pycache__/
+__pycache__/
+.venv/
+
+prompt.md
